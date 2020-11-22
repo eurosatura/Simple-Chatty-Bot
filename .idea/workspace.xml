@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a490dde-98d1-4142-98b4-dd70fa964346" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/main" />
+  </component>
+  <component name="ProjectId" id="1kPgmZ5FeXRlmoRVfrBQMpkTlIc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.SimpleBot">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Extracting_a_substring_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Check_prefix_ignoring_the_case_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Call_me_awesome_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Replacing_'a'_with_'b'_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bot.SimpleBot" />
+      <module name="Simple_Chatty_Bot-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleBot" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a490dde-98d1-4142-98b4-dd70fa964346" name="Default Changelist" comment="" />
+      <created>1605607800301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605607800301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1780" height="175" key="GridCell.Tab.0.bottom" timestamp="1606075235460">
+      <screen x="97" y="0" width="1823" height="1080" />
+    </state>
+    <state width="571" height="176" key="GridCell.Tab.0.bottom/93.0.1187.720@93.0.1187.720" timestamp="1605682657350" />
+    <state width="1139" height="101" key="GridCell.Tab.0.bottom/97.0.1183.720@97.0.1183.720" timestamp="1605993989202" />
+    <state width="1780" height="175" key="GridCell.Tab.0.bottom/97.0.1823.1080@97.0.1823.1080" timestamp="1606075235460" />
+    <state width="1780" height="175" key="GridCell.Tab.0.center" timestamp="1606075235459">
+      <screen x="97" y="0" width="1823" height="1080" />
+    </state>
+    <state width="571" height="176" key="GridCell.Tab.0.center/93.0.1187.720@93.0.1187.720" timestamp="1605682657350" />
+    <state width="1139" height="101" key="GridCell.Tab.0.center/97.0.1183.720@97.0.1183.720" timestamp="1605993989202" />
+    <state width="1780" height="175" key="GridCell.Tab.0.center/97.0.1823.1080@97.0.1823.1080" timestamp="1606075235459" />
+    <state width="1780" height="175" key="GridCell.Tab.0.left" timestamp="1606075235459">
+      <screen x="97" y="0" width="1823" height="1080" />
+    </state>
+    <state width="571" height="176" key="GridCell.Tab.0.left/93.0.1187.720@93.0.1187.720" timestamp="1605682657350" />
+    <state width="1139" height="101" key="GridCell.Tab.0.left/97.0.1183.720@97.0.1183.720" timestamp="1605993989201" />
+    <state width="1780" height="175" key="GridCell.Tab.0.left/97.0.1823.1080@97.0.1823.1080" timestamp="1606075235459" />
+    <state width="1780" height="175" key="GridCell.Tab.0.right" timestamp="1606075235460">
+      <screen x="97" y="0" width="1823" height="1080" />
+    </state>
+    <state width="571" height="176" key="GridCell.Tab.0.right/93.0.1187.720@93.0.1187.720" timestamp="1605682657350" />
+    <state width="1139" height="101" key="GridCell.Tab.0.right/97.0.1183.720@97.0.1183.720" timestamp="1605993989202" />
+    <state width="1780" height="175" key="GridCell.Tab.0.right/97.0.1823.1080@97.0.1823.1080" timestamp="1606075235460" />
+    <state x="346" y="161" key="run.anything.popup" timestamp="1605983949355">
+      <screen x="97" y="0" width="1183" height="720" />
+    </state>
+    <state x="343" y="161" key="run.anything.popup/93.0.1187.720@93.0.1187.720" timestamp="1605638412863" />
+    <state x="346" y="161" key="run.anything.popup/97.0.1183.720@97.0.1183.720" timestamp="1605983949355" />
+    <state x="488" y="62" width="1036" height="1017" key="search.everywhere.popup" timestamp="1606070076947">
+      <screen x="97" y="0" width="1823" height="1080" />
+    </state>
+    <state x="351" y="41" width="672" height="678" key="search.everywhere.popup/97.0.1183.720@97.0.1183.720" timestamp="1605985116233" />
+    <state x="488" y="62" width="1036" height="1017" key="search.everywhere.popup/97.0.1823.1080@97.0.1823.1080" timestamp="1606070076947" />
+  </component>
+</project>
